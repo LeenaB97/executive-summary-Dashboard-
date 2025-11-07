@@ -1,5 +1,8 @@
 🚀 Executive Dashboard – Power BI Project
+
+
 ![Adventure Works Power BI Dashboard](dash.png)
+
 
 This project showcases an interactive and comprehensive Executive Dashboard developed using Power BI for Adventure Works. The goal of this report is to provide clear insights and support data-driven decision-making at the executive level.
 
